@@ -1,0 +1,6 @@
+﻿pedido,cliente,fecha,importe_USD,estado
+A001,Ana Demo,2026-10-01,1250.00,pagado
+A002,Tienda Ejemplo,2026-10-02,80.50,pendiente
+A003,Estudio Ficticio,2026-10-03,149.99,pagado
+A004,Cliente Muestra,2026-10-04,600.00,pagado
+A005,Negocio Demo,2026-10-05,200.00,cancelado
